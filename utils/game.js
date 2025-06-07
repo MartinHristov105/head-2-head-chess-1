@@ -1,5 +1,5 @@
 export class Game {
-    constructor(id) {
+    constructor(id) { //фдсфдс
       this.id = id;
       this.players = []; // { id, socket, role }
       this.moves = [];
